@@ -1,0 +1,58 @@
+Machine learning:
+
+It is basically a process of training a piece of software called an algorithm or model, to make useful predictions from data.
+
+Supervised learning:
+
+The model or algorithm is presented with example inputs and their desired outputs and then finding patterns and connections between the input and the output.
+Image Classification: You train with images/labels. Then in the future you give a new image expecting that the computer will recognize the new object.
+Market Prediction/Regression: You train the computer with historical market data and ask the computer to predict the new price in the future.
+
+classification and reggresion are supervised learning problems.
+
+Classification:the inputs must be classified into specific classes.ex: email spam or not spam.
+
+Binary Classification: When we have to categorize given data into 2 distinct classes. Example – On the basis of given health conditions of a person, we have to determine whether the person has a certain disease or not.
+Multiclass Classification: The number of classes is more than 2. For Example – On the basis of data about different species of flowers, we have to determine which specie our observation belongs.
+
+
+Regression: It is also a supervised learning problem, that predicts a numeric value and outputs are continuous rather than discrete. For example, predicting the stock prices using historical data.
+
+Example of Supervised Learning Algorithms:  
+
+Linear Regression:
+Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x). 
+Logistic Regression
+Nearest Neighbor
+Gaussian Naive Bayes
+Decision Trees
+Support Vector Machine (SVM)
+Random Forest
+
+
+
+Unsupervised learning: No labels are given to the learning algorithm, leaving it on its own to find structure in its input. It is used for clustering population in different groups.
+
+**the data in supervised learning is labelled, where as data in unsupervised learning is unlabelled.**
+
+Semi-supervised learning: some of data is labbeled and some other is unlabbeld.
+
+Reinforcement learning:The program is provided feedback in terms of rewards and punishments as it navigates its problem space.
+
+Traditional Programming: We feed in DATA (Input) + PROGRAM (logic), run it on the machine, and get the output.
+Machine Learning: We feed in DATA(Input) + Output, run it on the machine during training and the machine creates its own program(logic), which can be evaluated while testing.
+
+Pandas
+Numpy
+Matplotlib
+Scipy
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+Theano
+
+
+
+
+
